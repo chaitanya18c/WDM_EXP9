@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 26.08.2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -24,7 +24,12 @@ operators for preprocessing:
 3) ***Stemming:*** Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)"
 for this purpose.
 
-
 ### Output:
+<img src='https://github.com/user-attachments/assets/9c3f0d54-87bd-4cca-90f9-7448a49749e6' >
+<img src='https://github.com/user-attachments/assets/61310bd8-a1a7-4bb7-998e-a8c65e3e5909' >
+<img src='https://github.com/user-attachments/assets/a2b13959-a7a1-4c6e-ad32-c3164fa3971c'>
+<img src='https://github.com/user-attachments/assets/077112c8-322e-4456-a0cc-c788dd8b20c6'>
+
 
 ### Result:
+Thus,the implemented preprocessing technique on Twitter Data using Rapidminer successfully.
